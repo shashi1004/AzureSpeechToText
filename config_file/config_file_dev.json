@@ -4,6 +4,6 @@
         "service_region":"eastus"
     },
     "location":{
-        "full_file_path":"C:\\Users\\shashikant.prasad\\Desktop\\speech-to-text\\data"
+        "full_file_path":"/data"
     }
 }
