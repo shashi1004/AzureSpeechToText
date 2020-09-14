@@ -1,0 +1,9 @@
+{
+    "speech_api":{
+        "speech_key":"YOUR_KEY",
+        "service_region":"YOUR_REGION"
+    },
+    "location":{
+        "full_file_path":"C:\\Users\\shashikant.prasad\\Desktop\\speech-to-text\\data"
+    }
+}

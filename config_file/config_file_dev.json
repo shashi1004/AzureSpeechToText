@@ -1,0 +1,9 @@
+{
+    "speech_api":{
+        "speech_key":"fd4f08b0d1614f71ad6be24adf28c09e",
+        "service_region":"eastus"
+    },
+    "location":{
+        "full_file_path":"C:\\Users\\shashikant.prasad\\Desktop\\speech-to-text\\data"
+    }
+}
